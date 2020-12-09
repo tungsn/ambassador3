@@ -9,6 +9,8 @@
   scrollbar-width: none;  /* Firefox */
 }
 
+
+
 #map-holder {
 	position: relative;
 }
@@ -16,7 +18,7 @@
 #header {
 	background-color: #a5bfdd;
 	padding-bottom: 30px;
-	display:flex;
+	display: flex;
 }
 
 #logo {
@@ -45,6 +47,7 @@
 #dropdownList-course {
 	margin-right: 1em;
 }
+
 
 body {
     font-family: Helvetica, Arial, sans-serif;
@@ -211,6 +214,26 @@ tr:last-child>td {
         margin-top: 2em;
         margin-bottom: 2em;
     }
+	
+	fieldset { 
+		min-width: 100%; 
+		font-size: 0.8em;
+	}
+	
+	#dropdownLists {
+		display: block;
+	}
+	
+	#dropdownList-country {
+		margin-bottom: 0.5em;
+	}
+
+	#dropdownList-course {
+		margin-bottom: 0.5em;
+	}
+	
+	
+	
 }
 
 /* Smaller image in landscape mode */
