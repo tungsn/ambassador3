@@ -226,7 +226,7 @@ tr:last-child>td {
 	
 	#dropdownLists {
 		display: block;
-		max-width: 80%;
+		min-width: 80%;
 	}
 	
 	#dropdownList-country {
