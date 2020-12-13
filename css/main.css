@@ -216,7 +216,7 @@ tr:last-child>td {
     }
 	
 	fieldset { 
-		min-width: 100%; 
+		min-width: 80%; 
 		font-size: 0.8em;
 	}
 	
