@@ -220,6 +220,10 @@ tr:last-child>td {
 		font-size: 0.8em;
 	}
 	
+	logo img {
+		display: none;
+	}
+	
 	#dropdownLists {
 		display: block;
 	}
